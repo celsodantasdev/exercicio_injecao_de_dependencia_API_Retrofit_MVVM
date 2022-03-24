@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/TodoBase/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2815" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/TodoBase/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/TodoBase/app/src/main/res/layout/card_layout_tarefa.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/TodoBase/app/src/main/res/layout/fragment_form.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/TodoBase/app/src/main/res/layout/fragment_list.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/HP/Desktop/Todo/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2235" />
         <entry key="..\:/Users/HP/Desktop/Todo/app/src/main/res/layout/activity_main.xml" value="0.176" />
         <entry key="..\:/Users/HP/Desktop/Todo/app/src/main/res/layout/card_layout_tarefa.xml" value="0.2" />

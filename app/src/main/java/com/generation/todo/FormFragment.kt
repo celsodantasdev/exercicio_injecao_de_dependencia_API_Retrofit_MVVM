@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Button
+import androidx.fragment.app.activityViewModels
 import androidx.navigation.fragment.findNavController
 import com.generation.todo.databinding.FragmentFormBinding
 import com.generation.todo.databinding.FragmentListBinding
@@ -13,6 +14,8 @@ import com.generation.todo.databinding.FragmentListBinding
 class FormFragment : Fragment() {
 
     private lateinit var binding: FragmentFormBinding
+
+    private val mainViewModel: MainViewModel by activityViewModels()
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
